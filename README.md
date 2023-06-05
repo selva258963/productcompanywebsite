@@ -439,9 +439,11 @@ body {
 ```
 
 ## OUTPUT:
-![image](https://github.com/selva258963/productcompanywebsite/assets/121961701/bde555d8-eaa8-4b41-b290-6fbda136a389)
+![7 2 1](https://github.com/selva258963/productcompanywebsite/assets/121961701/3ffa8724-dd6b-4103-9277-2204477f790e)
+
 ### Home Page:
-![image](https://github.com/selva258963/productcompanywebsite/assets/121961701/ce56c860-e783-4631-9cd7-aba60bf99ed0)
+
+![7 2 1](https://github.com/selva258963/productcompanywebsite/assets/121961701/5c6d0ba3-bddc-4c54-8d5f-db0a3b8d1705)
 
 
 ## Result:
